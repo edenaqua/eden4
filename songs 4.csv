@@ -1,8 +1,8 @@
-name,song,len,followers
-eden hason,kapiot,180,25
-ana zak,at era,182,100
-noa kirel,pantera,154,250
-peer tasi,ahava hola,132,134
-idan rachel,layla,89,26
-idan amedi,tire,163,98
-avrahao tal,shoshana,59,23
+name,song,len,followers,popularity,danceability,energy
+eden hason,kapiot,180,25,17,0.544,0.786
+ana zak,at era,182,100,21,0.386,0.736
+noa kirel,pantera,154,250,16,0.425,0.477
+peer tasi,ahava hola,132,134,1,0.434,0.183
+idan rachel,layla,89,26,21,0.23,0.99
+idan amedi,tire,163,98,26,0.658,0.586
+avrahao tal,shoshana,59,23,15,0.647,0.797
